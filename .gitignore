@@ -1,0 +1,6 @@
+venv/
+.vscode/
+.idea/
+db.sqlite3
+TaskManagerAPI/task/__pycache__/
+TaskManagerAPI/TaskManagerAPI/__pycache__/
