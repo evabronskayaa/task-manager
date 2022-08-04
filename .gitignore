@@ -4,3 +4,4 @@ venv/
 db.sqlite3
 TaskManagerAPI/task/__pycache__/
 TaskManagerAPI/TaskManagerAPI/__pycache__/
+TaskManagerAPI/task/migrations/__pycache__/
