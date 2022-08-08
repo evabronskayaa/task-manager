@@ -2,6 +2,9 @@ venv/
 .vscode/
 .idea/
 db.sqlite3
-TaskManagerAPI/task/__pycache__/
-TaskManagerAPI/TaskManagerAPI/__pycache__/
-TaskManagerAPI/task/migrations/__pycache__/
+task/__pycache__/
+task/migrations/__pycache__/
+TaskManagerAPI/__pycache__/
+users/__pycache__/
+users/migrations/__pycache__/
+media/profile-images/
